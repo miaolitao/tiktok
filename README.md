@@ -232,7 +232,7 @@ python DouYinCommand.py -C True \
   -l https://v.douyin.com/AJp8D3f/ \
   -l https://v.douyin.com/B38oovu/ \
   -l https://v.douyin.com/S6YMNXs/ \
-  -p /path/to/downdir \
+  -p D:\work\GitHub\python\tiktok\downloads \
   -M post \
   -M like \
   -M mix \
@@ -250,7 +250,7 @@ python DouYinCommand.py -C True \
 windows用户:
 .\DouYinCommand.exe -C True -l https://v.douyin.com/kcvMpuN/ -p D:\work\GitHub\python\tiktok\downloads --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
-python DouYinCommand.py -C True -l https://v.douyin.com/kcvMpuN/ -p /path/to/downdir --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+python DouYinCommand.py -C True -l https://v.douyin.com/kcvMpuN/ -p D:\work\GitHub\python\tiktok\downloads --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
 
 - 下载主页全部作品
@@ -259,7 +259,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/kcvMpuN/ -p /path/to/dow
 windows用户:
 .\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
-python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/downdir --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
 
 - 增量更新主页下作品(postincrease 选项)
@@ -268,7 +268,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/dow
 windows用户:
 .\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads --postincrease True --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
-python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/downdir --postincrease True --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads --postincrease True --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
 
 - 关闭数据库, 增量更新不可用(database 选项)
@@ -277,7 +277,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/dow
 windows用户:
 .\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads --database False --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
-python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/downdir --database False --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads --database False --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
 
 - 所有视频在一个文件夹下(folderstyle 选项)
@@ -286,7 +286,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/dow
 windows用户:
 .\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads --folderstyle False --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
-python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/downdir --folderstyle False --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads --folderstyle False --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
 
 - 下载主页前n个作品(postnumber 选项)
@@ -295,7 +295,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/dow
 windows用户:
 .\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads --postnumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
-python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/downdir --postnumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads --postnumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
 
 - 下载主页全部喜欢(-M like 选项)
@@ -304,7 +304,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/dow
 windows用户:
 .\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads -M like --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
-python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/downdir -M like --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads -M like --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
 
 - 下载主页前n个喜欢(-M like --likenumber 选项)
@@ -313,7 +313,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/dow
 windows用户:
 .\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads -M like --likenumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
-python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/downdir -M like --likenumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads -M like --likenumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
 
 - 下载单个合集全部作品
@@ -322,7 +322,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/dow
 windows用户:
 .\DouYinCommand.exe -C True -l https://v.douyin.com/B3J63Le/ -p D:\work\GitHub\python\tiktok\downloads --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
-python DouYinCommand.py -C True -l https://v.douyin.com/B3J63Le/ -p /path/to/downdir --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+python DouYinCommand.py -C True -l https://v.douyin.com/B3J63Le/ -p D:\work\GitHub\python\tiktok\downloads --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
 
 - 下载单个合集前n个作品(--mixnumber 选项)
@@ -331,7 +331,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/B3J63Le/ -p /path/to/dow
 windows用户:
 .\DouYinCommand.exe -C True -l https://v.douyin.com/B3J63Le/ -p D:\work\GitHub\python\tiktok\downloads --mixnumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
-python DouYinCommand.py -C True -l https://v.douyin.com/B3J63Le/ -p /path/to/downdir --mixnumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+python DouYinCommand.py -C True -l https://v.douyin.com/B3J63Le/ -p D:\work\GitHub\python\tiktok\downloads --mixnumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
 
 - 下载主页全部合集下所有作品(-M mix 选项)
@@ -340,7 +340,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/B3J63Le/ -p /path/to/dow
 windows用户:
 .\DouYinCommand.exe -C True -l https://v.douyin.com/B38oovu/ -p D:\work\GitHub\python\tiktok\downloads -M mix --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
-python DouYinCommand.py -C True -l https://v.douyin.com/B38oovu/ -p /path/to/downdir -M mix --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+python DouYinCommand.py -C True -l https://v.douyin.com/B38oovu/ -p D:\work\GitHub\python\tiktok\downloads -M mix --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
 
 - 下载主页前n个合集下所有作品(-M mix --allmixnumber 选项)
@@ -349,7 +349,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/B38oovu/ -p /path/to/dow
 windows用户:
 .\DouYinCommand.exe -C True -l https://v.douyin.com/B38oovu/ -p D:\work\GitHub\python\tiktok\downloads -M mix --allmixnumber 2 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
-python DouYinCommand.py -C True -l https://v.douyin.com/B38oovu/ -p /path/to/downdir -M mix --allmixnumber 2 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+python DouYinCommand.py -C True -l https://v.douyin.com/B38oovu/ -p D:\work\GitHub\python\tiktok\downloads -M mix --allmixnumber 2 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
 
 - 下载音乐(原声)集合下所有作品
@@ -358,7 +358,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/B38oovu/ -p /path/to/dow
 windows用户:
 .\DouYinCommand.exe -C True -l https://v.douyin.com/S6YMNXs/ -p D:\work\GitHub\python\tiktok\downloads --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
-python DouYinCommand.py -C True -l https://v.douyin.com/S6YMNXs/ -p /path/to/downdir --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+python DouYinCommand.py -C True -l https://v.douyin.com/S6YMNXs/ -p D:\work\GitHub\python\tiktok\downloads --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
 
 - 下载音乐(原声)集合下前n个作品(--musicnumber 选项)
@@ -367,7 +367,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/S6YMNXs/ -p /path/to/dow
 windows用户:
 .\DouYinCommand.exe -C True -l https://v.douyin.com/S6YMNXs/ -p D:\work\GitHub\python\tiktok\downloads --musicnumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
-python DouYinCommand.py -C True -l https://v.douyin.com/S6YMNXs/ -p /path/to/downdir --musicnumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+python DouYinCommand.py -C True -l https://v.douyin.com/S6YMNXs/ -p D:\work\GitHub\python\tiktok\downloads --musicnumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
 
 - 关闭头像下载, cover, music json数据也是一样的设置对应选项为 False
@@ -376,7 +376,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/S6YMNXs/ -p /path/to/dow
 windows用户:
 .\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads -a False --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
-python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/downdir -a False --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads -a False --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
 
 - 多线程设置, 默认5个线程, 可以自己调节线程数
@@ -385,20 +385,20 @@ python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/dow
 windows用户:
 .\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads -t 8 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
-python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/downdir -t 8 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads -t 8 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
 
 - 直播推流地址解析
 
 ```
 windows用户:
-.\DouYinCommand.exe -C True -l https://live.douyin.com/802939216127 -p /path/to/downdir --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+.\DouYinCommand.exe -C True -l https://live.douyin.com/802939216127 -p D:\work\GitHub\python\tiktok\downloads --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 或者
-.\DouYinCommand.exe -C True -l https://v.douyin.com/SnXMoh2/ -p /path/to/downdir --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+.\DouYinCommand.exe -C True -l https://v.douyin.com/SnXMoh2/ -p D:\work\GitHub\python\tiktok\downloads --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
-python DouYinCommand.py -C True -l https://live.douyin.com/802939216127 -p /path/to/downdir --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+python DouYinCommand.py -C True -l https://live.douyin.com/802939216127 -p D:\work\GitHub\python\tiktok\downloads --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 或者
-python DouYinCommand.py -C True -l https://v.douyin.com/SnXMoh2/ -p /path/to/downdir --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+python DouYinCommand.py -C True -l https://v.douyin.com/SnXMoh2/ -p D:\work\GitHub\python\tiktok\downloads --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
 
 
