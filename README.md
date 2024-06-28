@@ -553,7 +553,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/SnXMoh2/ -p D:\work\GitH
 python DouYinCommand.py -C True -l https://v.douyin.com/i6kuTsrD/ -p  D:\work\GitHub\python\tiktok\downloads
 
 -- 肖雅婷   长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/i6k9j9fX/
-python DouYinCommand.py -C True -l https://v.douyin.com/i6k9j9fX/ -p  D:\work\GitHub\python\tiktok\downloads
+python DouYinCommand.py -C True -l https://v.douyin.com/i6k9j9fX/ -p  D:\work\GitHub\python\tiktok\downloads --folderstyle False
 -- 增量
 python DouYinCommand.py -C True -l https://v.douyin.com/i6k9j9fX/ -p D:\work\GitHub\python\tiktok\downloads --postincrease True
 
