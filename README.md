@@ -211,7 +211,7 @@ windows用户:
   -l https://v.douyin.com/AJp8D3f/ `
   -l https://v.douyin.com/B38oovu/ `
   -l https://v.douyin.com/S6YMNXs/ `
-  -p C:\project\test `
+  -p D:\work\GitHub\python\tiktok\downloads `
   -M post `
   -M like `
   -M mix `
@@ -248,7 +248,7 @@ python DouYinCommand.py -C True \
 
 ```
 windows用户:
-.\DouYinCommand.exe -C True -l https://v.douyin.com/kcvMpuN/ -p C:\project\test --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+.\DouYinCommand.exe -C True -l https://v.douyin.com/kcvMpuN/ -p D:\work\GitHub\python\tiktok\downloads --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
 python DouYinCommand.py -C True -l https://v.douyin.com/kcvMpuN/ -p /path/to/downdir --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
@@ -257,7 +257,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/kcvMpuN/ -p /path/to/dow
 
 ```
 windows用户:
-.\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p C:\project\test --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+.\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
 python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/downdir --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
@@ -266,7 +266,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/dow
 
 ```
 windows用户:
-.\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p C:\project\test --postincrease True --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+.\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads --postincrease True --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
 python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/downdir --postincrease True --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
@@ -275,7 +275,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/dow
 
 ```
 windows用户:
-.\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p C:\project\test --database False --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+.\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads --database False --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
 python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/downdir --database False --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
@@ -284,7 +284,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/dow
 
 ```
 windows用户:
-.\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p C:\project\test --folderstyle False --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+.\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads --folderstyle False --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
 python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/downdir --folderstyle False --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
@@ -293,7 +293,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/dow
 
 ```
 windows用户:
-.\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p C:\project\test --postnumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+.\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads --postnumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
 python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/downdir --postnumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
@@ -302,7 +302,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/dow
 
 ```
 windows用户:
-.\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p C:\project\test -M like --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+.\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads -M like --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
 python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/downdir -M like --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
@@ -311,7 +311,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/dow
 
 ```
 windows用户:
-.\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p C:\project\test -M like --likenumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+.\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads -M like --likenumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
 python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/downdir -M like --likenumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
@@ -320,7 +320,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/dow
 
 ```
 windows用户:
-.\DouYinCommand.exe -C True -l https://v.douyin.com/B3J63Le/ -p C:\project\test --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+.\DouYinCommand.exe -C True -l https://v.douyin.com/B3J63Le/ -p D:\work\GitHub\python\tiktok\downloads --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
 python DouYinCommand.py -C True -l https://v.douyin.com/B3J63Le/ -p /path/to/downdir --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
@@ -329,7 +329,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/B3J63Le/ -p /path/to/dow
 
 ```
 windows用户:
-.\DouYinCommand.exe -C True -l https://v.douyin.com/B3J63Le/ -p C:\project\test --mixnumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+.\DouYinCommand.exe -C True -l https://v.douyin.com/B3J63Le/ -p D:\work\GitHub\python\tiktok\downloads --mixnumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
 python DouYinCommand.py -C True -l https://v.douyin.com/B3J63Le/ -p /path/to/downdir --mixnumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
@@ -338,7 +338,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/B3J63Le/ -p /path/to/dow
 
 ```
 windows用户:
-.\DouYinCommand.exe -C True -l https://v.douyin.com/B38oovu/ -p C:\project\test -M mix --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+.\DouYinCommand.exe -C True -l https://v.douyin.com/B38oovu/ -p D:\work\GitHub\python\tiktok\downloads -M mix --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
 python DouYinCommand.py -C True -l https://v.douyin.com/B38oovu/ -p /path/to/downdir -M mix --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
@@ -347,7 +347,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/B38oovu/ -p /path/to/dow
 
 ```
 windows用户:
-.\DouYinCommand.exe -C True -l https://v.douyin.com/B38oovu/ -p C:\project\test -M mix --allmixnumber 2 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+.\DouYinCommand.exe -C True -l https://v.douyin.com/B38oovu/ -p D:\work\GitHub\python\tiktok\downloads -M mix --allmixnumber 2 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
 python DouYinCommand.py -C True -l https://v.douyin.com/B38oovu/ -p /path/to/downdir -M mix --allmixnumber 2 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
@@ -356,7 +356,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/B38oovu/ -p /path/to/dow
 
 ```
 windows用户:
-.\DouYinCommand.exe -C True -l https://v.douyin.com/S6YMNXs/ -p C:\project\test --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+.\DouYinCommand.exe -C True -l https://v.douyin.com/S6YMNXs/ -p D:\work\GitHub\python\tiktok\downloads --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
 python DouYinCommand.py -C True -l https://v.douyin.com/S6YMNXs/ -p /path/to/downdir --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
@@ -365,7 +365,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/S6YMNXs/ -p /path/to/dow
 
 ```
 windows用户:
-.\DouYinCommand.exe -C True -l https://v.douyin.com/S6YMNXs/ -p C:\project\test --musicnumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+.\DouYinCommand.exe -C True -l https://v.douyin.com/S6YMNXs/ -p D:\work\GitHub\python\tiktok\downloads --musicnumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
 python DouYinCommand.py -C True -l https://v.douyin.com/S6YMNXs/ -p /path/to/downdir --musicnumber 30 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
@@ -374,7 +374,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/S6YMNXs/ -p /path/to/dow
 
 ```
 windows用户:
-.\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p C:\project\test -a False --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+.\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads -a False --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
 python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/downdir -a False --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
@@ -383,7 +383,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/dow
 
 ```
 windows用户:
-.\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p C:\project\test -t 8 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
+.\DouYinCommand.exe -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads -t 8 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 linux与mac用户:
 python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p /path/to/downdir -t 8 --cookie "msToken=xxx; ttwid=xxx; odin_tt=xxx; passport_csrf_token=xxx; sid_guard=xxx;"
 ```
