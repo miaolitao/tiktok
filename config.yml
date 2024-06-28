@@ -20,7 +20,7 @@ link:
 
 # 下载保存位置, 默认当前文件位置
 # 必选
-path: C:\project\test333
+path: D:\work\GitHub\python\tiktok\downloads
 
 # 是否下载视频中的音乐(True/False), 默认为True
 # 可选

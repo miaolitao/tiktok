@@ -88,6 +88,10 @@ docker run -d -p 5000:5000 --name tiktok --restart=always imgyh/tiktokweb
 
 ```
 cd /path/to/tiktok
+venv\Scripts\activate
+pip uninstall Flask
+pip uninstall werkzeug
+pip install --upgrade Flask
 python -m pip install -r requirements.txt
 python WebApi.py
 ```
@@ -539,3 +543,23 @@ python DouYinCommand.py -C True -l https://v.douyin.com/SnXMoh2/ -p /path/to/dow
 # Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=imgyh/tiktok&type=Date)](https://star-history.com/#imgyh/tiktok&Date)
+
+
+```
+长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/kcvSCe9/
+.\DouYinCommand.exe -C True -l https://v.douyin.com/i6kuTsrD/ -p  D:\work\GitHub\python\tiktok\downloads
+
+-- 诺一萌
+python DouYinCommand.py -C True -l https://v.douyin.com/i6kuTsrD/ -p  D:\work\GitHub\python\tiktok\downloads
+
+-- 肖雅婷   长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/i6k9j9fX/
+python DouYinCommand.py -C True -l https://v.douyin.com/i6k9j9fX/ -p  D:\work\GitHub\python\tiktok\downloads
+-- 增量
+python DouYinCommand.py -C True -l https://v.douyin.com/i6k9j9fX/ -p D:\work\GitHub\python\tiktok\downloads --postincrease True
+
+-- 理理小不点 长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/i6k9UGcp/
+python DouYinCommand.py -C True -l https://v.douyin.com/i6k9UGcp/ -p  D:\work\GitHub\python\tiktok\downloads
+
+-- 一只眠羊  长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/i6SnjnCk/
+python DouYinCommand.py -C True -l https://v.douyin.com/i6SnjnCk/ -p  D:\work\GitHub\python\tiktok\downloads
+```
