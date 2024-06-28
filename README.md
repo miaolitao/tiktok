@@ -562,6 +562,13 @@ python DouYinCommand.py -C True -l https://v.douyin.com/i6k9UGcp/ -p  D:\work\Gi
 
 -- 一只眠羊  长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/i6SnjnCk/
 python DouYinCommand.py -C True -l https://v.douyin.com/i6SnjnCk/ -p  D:\work\GitHub\python\tiktok\downloads
--- 下载到同一个文件夹
+-- 下载到同一个文件夹  默认视频
 python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads --folderstyle False
+
+
+--  射雕英雄传  长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/i6SwENY7/
+python DouYinCommand.py -C True -l https://v.douyin.com/i6SwENY7/ -p D:\work\GitHub\python\tiktok\downloads -M mix  --folderstyle False
+
+-- 高能电影不断片 长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/i6SKH2jw/
+python DouYinCommand.py -C True -l https://v.douyin.com/i6SKH2jw/ -p D:\work\GitHub\python\tiktok\downloads 
 ```
