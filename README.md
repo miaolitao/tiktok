@@ -573,4 +573,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/i6SwENY7/ -p D:\work\Git
 
 -- 高能电影不断片 长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/i6SKH2jw/
 python DouYinCommand.py -C True -l https://v.douyin.com/i6SKH2jw/ -p D:\work\GitHub\python\tiktok\downloads 
+
+-- 活捉帆帆咯 长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/i6D1otJ5/
+python DouYinCommand.py -C True -l https://v.douyin.com/i6D1otJ5/ -p D:\work\GitHub\python\tiktok\downloads --folderstyle False
 ```
