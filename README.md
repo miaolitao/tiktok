@@ -549,10 +549,10 @@ python DouYinCommand.py -C True -l https://v.douyin.com/SnXMoh2/ -p D:\work\GitH
 
 ```
 长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/kcvSCe9/
-.\DouYinCommand.exe -C True -l https://v.douyin.com/i6kuTsrD/ -p  D:\work\GitHub\python\tiktok\downloads
+.\DouYinCommand.exe -C True -l https://v.douyin.com/i6kuTsrD/ -p  D:\work\GitHub\python\tiktok\downloads --folderstyle False
 
 -- 诺一萌
-python DouYinCommand.py -C True -l https://v.douyin.com/i6kuTsrD/ -p  D:\work\GitHub\python\tiktok\downloads
+python DouYinCommand.py -C True -l https://v.douyin.com/i6kuTsrD/ -p  D:\work\GitHub\python\tiktok\downloads --folderstyle False
 
 -- 肖雅婷   长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/i6k9j9fX/
 python DouYinCommand.py -C True -l https://v.douyin.com/i6k9j9fX/ -p  D:\work\GitHub\python\tiktok\downloads --folderstyle False
@@ -560,10 +560,10 @@ python DouYinCommand.py -C True -l https://v.douyin.com/i6k9j9fX/ -p  D:\work\Gi
 python DouYinCommand.py -C True -l https://v.douyin.com/i6k9j9fX/ -p D:\work\GitHub\python\tiktok\downloads --postincrease True
 
 -- 理理小不点 长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/i6k9UGcp/
-python DouYinCommand.py -C True -l https://v.douyin.com/i6k9UGcp/ -p  D:\work\GitHub\python\tiktok\downloads
+python DouYinCommand.py -C True -l https://v.douyin.com/i6k9UGcp/ -p  D:\work\GitHub\python\tiktok\downloads --folderstyle False
 
 -- 一只眠羊  长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/i6SnjnCk/
-python DouYinCommand.py -C True -l https://v.douyin.com/i6SnjnCk/ -p  D:\work\GitHub\python\tiktok\downloads
+python DouYinCommand.py -C True -l https://v.douyin.com/i6SnjnCk/ -p  D:\work\GitHub\python\tiktok\downloads --folderstyle False
 -- 下载到同一个文件夹  默认视频
 python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitHub\python\tiktok\downloads --folderstyle False
 
@@ -572,7 +572,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/kcvSCe9/ -p D:\work\GitH
 python DouYinCommand.py -C True -l https://v.douyin.com/i6SwENY7/ -p D:\work\GitHub\python\tiktok\downloads -M mix  --folderstyle False
 
 -- 高能电影不断片 长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/i6SKH2jw/
-python DouYinCommand.py -C True -l https://v.douyin.com/i6SKH2jw/ -p D:\work\GitHub\python\tiktok\downloads 
+python DouYinCommand.py -C True -l https://v.douyin.com/i6SKH2jw/ -p D:\work\GitHub\python\tiktok\downloads --folderstyle False
 
 -- 活捉帆帆咯 长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/i6D1otJ5/
 python DouYinCommand.py -C True -l https://v.douyin.com/i6D1otJ5/ -p D:\work\GitHub\python\tiktok\downloads --folderstyle False
