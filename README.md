@@ -526,11 +526,6 @@ python DouYinCommand.py -C True -l https://v.douyin.com/SnXMoh2/ -p D:\work\GitH
 
 本项目部分思路来自[TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload)
 
-# 赞赏
-## 支付宝
-![alipay](./img/alipay.jpg)
-## 微信
-![wechat](./img/wechat.jpg)
 
 # 申明
 
