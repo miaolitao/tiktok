@@ -574,7 +574,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/i6D1otJ5/ -p D:\work\Git
 
 
 -- 吞吞 长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/i6Xc4rUb/
-python DouYinCommand.py -C True -l https://v.douyin.com/i6Xc4rUb/ -p D:\work\GitHub\python\tiktok\downloads --folderstyle False
+python DouYinCommand.py -C True -l https://v.douyin.com/i6Xc4rUb/ -p D:\work\GitHub\python\tiktok\downloads --folderstyle False --postincrease True
 
 
 长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/i6w3p43R/
