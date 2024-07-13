@@ -526,11 +526,6 @@ python DouYinCommand.py -C True -l https://v.douyin.com/SnXMoh2/ -p D:\work\GitH
 
 本项目部分思路来自[TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload)
 
-# 赞赏
-## 支付宝
-![alipay](./img/alipay.jpg)
-## 微信
-![wechat](./img/wechat.jpg)
 
 # 申明
 
@@ -581,7 +576,10 @@ python DouYinCommand.py -C True -l https://v.douyin.com/i6D1otJ5/ -p D:\work\Git
 -- 吞吞 长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/i6Xc4rUb/
 python DouYinCommand.py -C True -l https://v.douyin.com/i6Xc4rUb/ -p D:\work\GitHub\python\tiktok\downloads --folderstyle False
 
+
 长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/i6w3p43R/
 python DouYinCommand.py -C True -l https://v.douyin.com/i6w3p43R/ -p D:\work\GitHub\python\tiktok\downloads --folderstyle False
 
 ```
+
+
