@@ -584,6 +584,9 @@ python DouYinCommand.py -C True -l https://v.douyin.com/i6w3p43R/ -p D:\work\Git
 -- 美大宝 长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/i6Ec1cxo/
 python DouYinCommand.py -C True -l https://v.douyin.com/i6Ec1cxo/ -p D:\work\GitHub\python\tiktok\downloads --folderstyle False
 
+-- 筠jun 长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/iM1kmVyo/
+python DouYinCommand.py -C True -l https://v.douyin.com/iM1kmVyo/ -p D:\work\GitHub\python\tiktok\downloads --folderstyle False
+
 ```
 
 
